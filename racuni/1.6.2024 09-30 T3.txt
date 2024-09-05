@@ -1,0 +1,18 @@
+--- Racun ---
+Vrijeme: 2024-06-01T09:30
+Korisnik: K1
+IDVozila: T3
+Pocetna lokacija: 14,17
+Odredisna lokacija: 9,17
+Trajanje koristenja: 14
+-----------------
+ID dokumenta: K1.dokument
+Vozacka dozvola: K1.vozacka
+-----------------
+Osnovna cijena (trotinet): 0.70
+Iznos: osnovnaCijena*udaljenost (Wide): 5.60
+Popust: 0.00
+Promocija: 0.00
+Kvarovi: nema
+-----------------
+Iznos za placanje: 5.60
