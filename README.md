@@ -107,7 +107,6 @@ Slika mape:
 ![image](https://github.com/user-attachments/assets/ff0b5ca7-a9a0-48fe-a0bb-9b94e3a1d195)
 
 Napomene:
-- ovaj projektni zadatak vrijedi do objave novog projektnog zadatka,
 - obavezno dodati JavaDoc komentare i generisati dokumentaciju,
 - obavezno napraviti pakete,
 - izbjegavati dupliranje koda i
