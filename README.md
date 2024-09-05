@@ -104,6 +104,8 @@ Ovi podaci se pojedinačno serijalizuju u binarne fajlove, pri čemu se čuvaju 
 sredstva sa svim poljima i iznose u određeni folder. Potrebno je implementirati i ekran na
 kojem će se moći deserijalizovati ovi podaci i prikazati.
 Slika mape:
+![image](https://github.com/user-attachments/assets/ff0b5ca7-a9a0-48fe-a0bb-9b94e3a1d195)
+
 Napomene:
 - ovaj projektni zadatak vrijedi do objave novog projektnog zadatka,
 - obavezno dodati JavaDoc komentare i generisati dokumentaciju,
